@@ -1,4 +1,4 @@
-# Bike Dataset Readme
+# Bike Dataset 
 
 This repository contains data exploration, data cleaning, feature engineering, and machine learning models on a bike dataset. The dataset contains information about bike rentals in Washington, D.C. The goal of this project is to predict the count of bike rentals based on various features.
 
