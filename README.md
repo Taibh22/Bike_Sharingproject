@@ -9,8 +9,8 @@ To get started with this project, you will need to have Python 3 installed on yo
 You can clone this repository using the following command:
 
 bash
-git clone https://github.com/Taibh22/bike-dataset.git
-
+git clone [https://github.com/Taibh22/Bike_Sharingproject.git
+](https://github.com/Taibh22/Bike_Sharingproject.git)
 
 ## Data Description
 
